@@ -18,6 +18,7 @@ function Dummy({product}) {
     </div>
   </div>
   /* First commit */
+  /* Second commit */
   )
 }
 
