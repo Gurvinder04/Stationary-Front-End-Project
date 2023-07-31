@@ -43,7 +43,7 @@ function Home() {
           className="d-block w-100"
           // src="https://images.unsplash.com/photo-1631173716529-fd1696a807b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3RhdGlvbmVyeXxlbnwwfHwwfHw%3D&w=1000&q=80"
           src="https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3RhdGlvbmVyeXxlbnwwfHwwfHw%3D&w=1000&q=80"
-          alt="First slide"
+          alt="First slide" 
         />
         <Carousel.Caption>
           <h1 className='h1Size animate__animated animate__jackInTheBox'><em><span className='red'>C</span><span className='green'>om</span><span className='black'>P</span><span className='yellow'>le<span className='blue'>te</span></span><span className='red'> Y</span><span className='yellow'>OU</span><span className='blue'>R</span><span className='orange'> B</span><span className='green'>ag</span></em></h1>
@@ -61,7 +61,7 @@ function Home() {
         <Carousel.Caption>
         <h1 className='h1Size animate__animated animate__jackInTheBox'><em><span className='red'>C</span><span className='green'>om</span><span className='black'>P</span><span className='yellow'>le<span className='blue'>te</span></span><span className='red'> Y</span><span className='yellow'>OU</span><span className='blue'>R</span><span className='orange'> B</span><span className='green'>ag</span></em></h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </Carousel.Caption>
+        </Carousel.Caption>  
       </Carousel.Item>
       <Carousel.Item>
         <img
