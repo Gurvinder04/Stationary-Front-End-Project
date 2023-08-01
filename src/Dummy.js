@@ -17,6 +17,18 @@ function Dummy({product}) {
       <button type="submit" className='btnclr'>Add to cart</button>
     </div>
   </div>
+  /* First commit */
+  /* Second commit */
+   /* Third  commit */
+    /* Forth commit */
+     /* First commit */
+  /* Second commit */
+   /* Third  commit */
+    /* Forth commit */
+     /* First commit */
+  /* Second commit */
+   /* Third  commit */
+    /* Forth commit */
   )
 }
 

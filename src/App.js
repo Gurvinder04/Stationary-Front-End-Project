@@ -37,7 +37,7 @@ function App() {
       //<UserContext.Provider value={{state,dispatch}}>
          <Layout>
          <Routes>
-         <Route path='/' element={<Home/>} />
+         <Route path='/' element={<Home/>} />  
          <Route path='/product/:id' element={<ProductDetail/>} />
          <Route path ='/detail/:cat' element={<Category/>} />
          <Route path ='/product' element={<Products/>} />
